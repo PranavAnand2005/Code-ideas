@@ -1,0 +1,7 @@
+{ "Student":
+[
+    {"roll no":1,"Name":"Raj","Class":"A","School Name":"D.A.V","Marks.Maths":90,"Marks.Eng":70,"Marks.Sci":80},
+    {"roll no":2,"Name":"Akash","Class":"B","School Name":"D.P.S","Marks.Maths":30,"Marks.Eng":60,"Marks.Sci":90},
+    {"roll no":3,"Name":"Abhi","Class":"C","School Name":"K.V","Marks.Maths":60,"Marks.Eng":70,"Marks.Sci":70}
+]
+}
